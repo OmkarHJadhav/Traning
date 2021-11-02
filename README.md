@@ -1,2 +1,2 @@
 # Traning
-Training Session Activity
+Training Session Program Activity
